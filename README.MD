@@ -8,11 +8,13 @@
  - anomaly_detector.ipynb
     - This file is the Jupyter Notebook for the project.
 - anomaly_detector.py
-    - This file is the python script that could be run instead of the Jupyter Notebook.
+    - This file is the Python script that could be run instead of the Jupyter Notebook.
 - Dataset Information.txt
     - This file provides information on the dataset that was used for this project including the contact information of the owners of the dataset. This is the original README file of the dataset.
 - README.MD
     - This file is the README file of the repository.
+- graphs
+    - This directory contains .png images of the graphs that will be created from this project.
 
 To run this project, you need to download the dataset "flights.csv" from the link given below. (Kudos to the authors for an amazing dataset!)
 
